@@ -1,9 +1,7 @@
 apple
 grapes
 watermelon
-<<<<<<< HEAD
 mango
-=======
 orange
 papaya
->>>>>>> mybranch
+
